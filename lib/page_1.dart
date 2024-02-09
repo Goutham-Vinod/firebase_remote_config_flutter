@@ -1,7 +1,6 @@
 import 'package:firebase_remote_config/firebase_remote_config.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_application_1/firebase_services.dart';
-import 'package:flutter_application_1/page_2.dart';
 
 class Page1 extends StatefulWidget {
   const Page1({
